@@ -1,0 +1,9 @@
+streamlit
+numpy
+scikit-learn
+
+#local packages
+-e .
+
+#for run this file use following command
+#pip install -r requirements.txt
